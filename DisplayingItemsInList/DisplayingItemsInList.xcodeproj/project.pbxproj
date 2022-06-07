@@ -11,6 +11,7 @@
 		77B23C65284BD46100343F17 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77B23C64284BD46100343F17 /* ContentView.swift */; };
 		77B23C67284BD46500343F17 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 77B23C66284BD46500343F17 /* Assets.xcassets */; };
 		77B23C6A284BD46500343F17 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 77B23C69284BD46500343F17 /* Preview Assets.xcassets */; };
+		77B23C71284FE0BE00343F17 /* NumberListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77B23C70284FE0BE00343F17 /* NumberListViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		77B23C64284BD46100343F17 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		77B23C66284BD46500343F17 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		77B23C69284BD46500343F17 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		77B23C70284FE0BE00343F17 /* NumberListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberListViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				77B23C62284BD46100343F17 /* DisplayingItemsInListApp.swift */,
+				77B23C70284FE0BE00343F17 /* NumberListViewModel.swift */,
 				77B23C64284BD46100343F17 /* ContentView.swift */,
 				77B23C66284BD46500343F17 /* Assets.xcassets */,
 				77B23C68284BD46500343F17 /* Preview Content */,
@@ -139,6 +142,7 @@
 			files = (
 				77B23C65284BD46100343F17 /* ContentView.swift in Sources */,
 				77B23C63284BD46100343F17 /* DisplayingItemsInListApp.swift in Sources */,
+				77B23C71284FE0BE00343F17 /* NumberListViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
